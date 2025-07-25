@@ -38,7 +38,6 @@ A seguir, as decisões de design e os conceitos de usabilidade que guiaram a cri
 
 ## 🖼️ Wireframe de Média Fidelidade
 
-> ⚠️ **Atenção:** Para uma avaliação correta do seu desafio, substitua o link abaixo pelo **link do seu próprio projeto de wireframe** que você criou no Figma. O link atual é de um template e serve apenas como referência.
 
 **Link para o Protótipo no Figma:**
 [https://www.figma.com/proto/QCidTmZlgv87RQ2bKgwktR/Animocks--free-Animated-Mockups-pack---%F0%9F%9A%80--Community-?node-id=607-2096&p=f&t=9F2hzWMDlRCGgawU-1&scaling=min-zoom&content-scaling=fixed&page-id=607%3A2&starting-point-node-id=607%3A2096]
